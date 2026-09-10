@@ -3,7 +3,7 @@
 > **BRACT's Vishwakarma Institute of Technology, Pune**  
 > Department of Computer Science & Engineering (Artificial Intelligence)  
 > **Practical No. 4 | Deep Learning (TY SEM-1, 2026-27)**  
-> **Student**: Pushkar Patankar | **PRN**: 12410410 | **Roll No.**: 63 | **Division E, Batch 3**  
+> **Student**: Pushkar Patankar | **PRN**: 12414995 | **Roll No.**: 70 | **Division E, Batch 3**  
 
 ---
 
